@@ -6,8 +6,8 @@
 // u -> ufat
 
 function encrypt(str) {
-    var newStr = "";
-    for (var i = 0; i < str.length; i++) {
+    let newStr = "";
+    for (let i = 0; i < str.length; i++) {
         switch (str[i]) {
             case "a":
                 newStr += "ai";
@@ -40,7 +40,7 @@ function encrypt(str) {
 // ufat -> u
 
 function decrypt(str) {
-    var newStr = "";
+    let newStr = "";
     newStr = str.replace(/ai/g, "a");
     newStr = newStr.replace(/enter/g, "e");
     newStr = newStr.replace(/imes/g, "i");
