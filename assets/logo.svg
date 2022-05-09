@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128mm"
+   height="128mm"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.74208053"
+     inkscape:cx="79.506196"
+     inkscape:cy="362.49435"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.805069,-24.145941)">
+    <g
+       id="g75540"
+       transform="translate(-6.1898575,0.89173737)">
+      <circle
+         style="opacity:0.5;fill:#00ffcc;stroke-width:0.302919"
+         id="path39137"
+         cx="111.99493"
+         cy="87.254204"
+         r="64" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="50.010105"
+         y="104.55859"
+         id="text2937"><tspan
+           sodipodi:role="line"
+           id="tspan2935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Audiowide;-inkscape-font-specification:Audiowide;stroke-width:0.264583"
+           x="50.010105"
+           y="104.55859">&lt;ng&gt;</tspan></text>
+    </g>
+  </g>
+</svg>

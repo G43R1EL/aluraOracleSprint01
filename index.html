@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador de mensajes - Alura Sprint 01</title>
+    <link rel="shortcut icon" href="assets/logo.svg" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="assets/logo.svg" alt="NG Computers" class="logo">
+        </header>
+        <h1 class="container__title">Text Crypt</h1>
+        <section class="container__input">
+            <textarea name="inputText" id="inputText" placeholder="Ingrese su texto aquí..."></textarea>
+            <p><i class="fa-solid fa-circle-exclamation"></i> Solo letras minúsculas sin acentos.</p>
+            <div>
+                <button class="reverse" id="encryptBtn">Encriptar</button>
+                <button id="decryptBtn">Desencriptar</button>
+            </div>
+        </section>
+        <section class="container__output">
+            <p id="outputText"></p>
+            <img src="assets/thinking_coyote.svg" alt="thinking" class="container__output--noinput">
+            <div class="container__output--noinput">
+                <h2>Ningun mensaje fue encontrado</h2>
+                <p>Ingresa el texto que desees encriptar o desencriptar.</p>
+            </div>
+            <button id="copyBtn" class="invisible">Copiar</button>
+        </section>
+        </main>
+        <footer>
+            <p>&copy; 2022 NG Computers</p>
+        </footer>
+    </div>
+    <script src="js/encrypt.js"></script>
+    <script src="https://kit.fontawesome.com/5002fa4658.js" crossorigin="anonymous"></script>
+</body>
+</html>
